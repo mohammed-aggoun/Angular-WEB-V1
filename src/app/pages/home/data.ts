@@ -19,7 +19,7 @@ const LANDINGDEMOS: Demo[] = [
     },
     {
         image: 'assets/images/demo/landing/home-startup.jpg',
-        url: '/landing/startup',
+        url: 'v1/landing/startup',
         name: 'Startup',
     },
     {
