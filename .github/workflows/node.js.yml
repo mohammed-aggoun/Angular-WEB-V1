@@ -5,9 +5,9 @@ name: NodeJS with Webpack
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "saikiran" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "saikiran" ]
 
 jobs:
   build:
@@ -46,5 +46,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}  # Your GitHub secret for FTP password
           local-dir: ./dist/  # The directory with your built Angular project
           remote-dir: /public_html/v1/  # The target directory on your Hostinger server
-    
+
 
