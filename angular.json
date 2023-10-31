@@ -47,8 +47,9 @@
           "configurations": {
             "production": {
               "production": {
-                "baseHref": "/v1/"
-              },
+                "options": {
+                  "baseHref": "/v1/"
+                }              },
               "budgets": [
                 {
                   "type": "initial",
