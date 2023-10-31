@@ -3,10 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 export const environment = {
   production: false,
-  apiUrl: 'https://mohammedaggoun.com/v1/',
-  baseUrl: 'https://mohammedaggoun.com/v1/',
-  version: 'dev', // env.npm_package_version,
-  serverUrl: '/',
+  // apiUrl: 'https://mohammedaggoun.com/v1/',
+  // baseUrl: 'https://mohammedaggoun.com/v1/',
+  // version: 'dev', // env.npm_package_version,
+  // serverUrl: '/',
 };
 
 /*
