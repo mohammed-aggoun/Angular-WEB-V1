@@ -5,6 +5,13 @@
 export const environment = {
   production: false
 };
+export const environment = {
+  production: true,
+  apiUrl: 'https://mohammedaggoun.com/v1/',
+  
+  // Extra property
+  releaseVersion: '1.0.0' 
+};
 
 /*
  * For easier debugging in development mode, you can import the following file
