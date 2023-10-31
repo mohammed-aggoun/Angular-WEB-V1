@@ -4,7 +4,9 @@
 export const environment = {
   production: false,
   apiUrl: 'https://mohammedaggoun.com/v1/',
-  baseUrl: 'https://mohammedaggoun.com/v1/'
+  baseUrl: 'https://mohammedaggoun.com/v1/',
+  version: 'dev', // env.npm_package_version,
+  serverUrl: '/',
 };
 
 /*
