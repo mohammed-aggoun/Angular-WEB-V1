@@ -26,7 +26,6 @@
     "@types/feather-icons": "^4.7.0",
     "@types/file-saver": "^2.0.5",
     "@types/leaflet": "^1.7.9",
-    "@yoozly/ngx-parallax": "^16.0.0",
     "aos": "^2.3.4",
     "bootstrap": "^5.1.3",
     "feather-icons": "^4.28.0",
@@ -36,6 +35,7 @@
     "ngx-countup": "^7.3.3",
     "ngx-lightbox": "^2.5.2",
     "ngx-masonry": "^13.0.0",
+    "ngx-parallax-scroll": "^1.0.2",
     "ngx-typed-js": "^2.1.1",
     "rxjs": "~7.5.0",
     "swiper": "^7.4.1",
@@ -43,8 +43,8 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^17.2.1",
-    "@angular/cli": "^17.2.1",
+    "@angular-devkit/build-angular": "~13.2.0",
+    "@angular/cli": "~13.2.0",
     "@angular/compiler-cli": "~13.2.0",
     "@angular/localize": "13.2.0",
     "@types/jasmine": "~3.10.0",
