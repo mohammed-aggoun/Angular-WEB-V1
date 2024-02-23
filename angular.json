@@ -133,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "prompt-angular"
+  "defaultProject": "prompt-angular",
+  "cli": {
+    "analytics": "1774959f-0eaa-42cc-901c-f1567bce142d"
+  }
 }
